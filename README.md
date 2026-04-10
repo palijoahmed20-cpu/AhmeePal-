@@ -1,6 +1,6 @@
 palijoahmed20-cpu 
 # Hi, I'm Ahmed 👋
-### Junior Data Analyst | BS Economics | University of Sindh, Jamshoro
+Data Analyst | SQL • Excel • Power BI | Economics Graduate helping businesses make data-driven decisions.
 
 ---
 
